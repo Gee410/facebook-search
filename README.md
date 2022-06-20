@@ -5,7 +5,6 @@ The file contains searching and friend recommendation algorithms for any user sp
 Algorithms and Design Assignment Submission (Mount Kenya University) - 2022
 
 Contributers - 	Brian Murutu
-		Habiba Omar
-		Grace 
-		Abdulmutalib 
+		
+		
 		
